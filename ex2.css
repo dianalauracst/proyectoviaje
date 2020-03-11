@@ -1,0 +1,16 @@
+body {
+    background: beige;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1,h2, p {
+    color: black;
+}
+
+header {
+    background: orange;
+}
+
+header h1 {
+    color: black;
+}
